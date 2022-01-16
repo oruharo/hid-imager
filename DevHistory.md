@@ -26,6 +26,9 @@ yarn add \
   notistack \
   copy-to-clipboard \
   react-error-boundary \
-  @testing-library/react-hooks
+  @testing-library/react-hooks \
+  @types/w3c-web-serial \
+  @types/w3c-web-usb \
+  crc-32
 
 ```
